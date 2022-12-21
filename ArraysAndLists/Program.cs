@@ -11,7 +11,7 @@ namespace ArraysAndLists
 
             // Create an int Array and populate numbers 1-10 - DONE
 
-            var numbers = new int[10] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+            var numbers = new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
 
 
